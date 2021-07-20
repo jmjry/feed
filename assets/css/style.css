@@ -20,7 +20,7 @@ h1, h2 {
 }
 
 #menu{
-    font-size: 110%;
+    font-size: 200%;
     letter-spacing: 5px;
 }
 
@@ -46,9 +46,28 @@ h1, h2 {
 /* hero-image */
 
 #hero-image{
-    height: 600px;
+    height: 500px;
     width: 100%;
-    background: url("../css/images/hero-image.JPG")
+    background: url("../css/images/hero-image.JPG") no-repeat center center;
+
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+#hero-outer{ 
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+}
+
+@keyframes hero-zoom{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
 }
 
 /* footer */ 
