@@ -75,6 +75,13 @@ h1, h2 {
     }
 }
 
+/* introduction paragraph */
+
+#introduction {
+
+    font-size: large;
+}
+
 
 /* index images */ 
 
