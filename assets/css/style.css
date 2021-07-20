@@ -42,3 +42,25 @@ h1, h2 {
 #menu a:hover{
     border-bottom: 1px solid #657383;
 }
+
+
+/* footer */ 
+
+footer{
+    height: 150px;
+}
+
+.social-networks{
+    text-align: center;
+}
+
+.social-networks > li{
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 200%;
+    margin: 5%;
+    padding: 1%;
+    color:#566D7E 
+}
