@@ -163,20 +163,44 @@ hr {
         padding: 5px;
       }
 
-/* find us information */
+/* opening times */
+
+#opening-header {
+    color: whitesmoke;
+}
+#opening {
+    background: url("./images/footer.jpg") no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    overflow: hidden;
+    object-fit: scale-down contain;
+}
 
 .restaurant { 
-    background: url("./images/dessert.JPG") no-repeat center center;
+    background-position: left;
+    width: 33%;
+    text-align: center;
+    color:whitesmoke;
+    display: inline-block;
 }
 
 .terrace {
-    background: url("./images/terrace.JPG") no-repeat center center;
+    background-position: center center;
+    width: 33%;
+    text-align: center;
+    color:whitesmoke;
+    display: inline-block;
 }
 
 .garden {
-    background: url("./images/garden.JPG") no-repeat center center;
+    background-position: right;
+    width: 33%;
+    text-align: center;
+    color:whitesmoke;
+    display: inline-block;
 }
-      
+
 /* footer */ 
 
 footer{
