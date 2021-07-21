@@ -102,6 +102,12 @@ h1, h2 {
     display: inline-block;
     font-size: 25px;
     border-radius: 10%;
+    transition-duration: 0.4s;
+}
+
+#menu-button:hover {
+    background-color: #657383;
+    color: whitesmoke
 }
 
 /* horizontal border */
