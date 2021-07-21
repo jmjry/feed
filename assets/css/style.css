@@ -82,11 +82,19 @@ h1, h2 {
 #introduction {
 
     font-size: large;
-    width: 40%;
+    line-height: 20px;
+    width: 80%;
     padding: 30px;
     margin: 0% auto;
+    margin-bottom: 50px;
+    text-align: center;
 }
 
+/* horizontal border */
+
+hr {
+    border-top: 1px solid #657383;
+}
 
 /* index images */ 
 
