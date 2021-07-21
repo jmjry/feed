@@ -82,6 +82,9 @@ h1, h2 {
 #introduction {
 
     font-size: large;
+    width: 40%;
+    padding: 30px;
+    margin: 0% auto;
 }
 
 
@@ -93,14 +96,15 @@ h1, h2 {
         padding: 10px;
       }
 
-.row::after {
+#current-dishes::after {
         content: "";
         clear: both;
         display: table;
       }
 
-.row {
+#current-dishes {
         display: flex;
+        height: 500px;
       }
 
  .column {
