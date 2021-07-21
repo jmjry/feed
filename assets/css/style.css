@@ -110,6 +110,13 @@ h1, h2 {
     color: whitesmoke
 }
 
+/* hyperlinks */ 
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
 /* horizontal border */
 
 hr {
