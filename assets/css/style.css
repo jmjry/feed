@@ -166,22 +166,13 @@ hr {
 /* opening times */
 
 #opening-header {
-    color: whitesmoke;
+    color: #657383;
 }
-#opening {
-    background: url("./images/footer.jpg") no-repeat;
-    background-position: center;
-    background-size: cover;
-    width: 100%;
-    overflow: hidden;
-    object-fit: scale-down contain;
-}
-
 .restaurant { 
     background-position: left;
     width: 33%;
     text-align: center;
-    color:whitesmoke;
+    color:#657383;
     display: inline-block;
 }
 
@@ -189,7 +180,7 @@ hr {
     background-position: center center;
     width: 33%;
     text-align: center;
-    color:whitesmoke;
+    color:#657383;
     display: inline-block;
 }
 
@@ -197,7 +188,7 @@ hr {
     background-position: right;
     width: 33%;
     text-align: center;
-    color:whitesmoke;
+    color:#657383;
     display: inline-block;
 }
 
