@@ -55,8 +55,8 @@ h1, h2 {
     text-transform: uppercase;
     letter-spacing: 5px;
     text-align: center;
-    padding: 150px;
-    color: whitesmoke;
+    padding: 100px;
+    color: #657383;
     font-weight: bold;
 }
 
@@ -67,7 +67,7 @@ h1, h2 {
     width: 100%;
     background: url("../css/images/hero-image.JPG") no-repeat center center;
     position: relative;
-    filter: brightness(50%);
+    filter: brightness(75%);
 
     animation-name: hero-zoom;
     animation-duration: 5s;
