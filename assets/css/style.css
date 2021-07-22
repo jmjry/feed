@@ -175,6 +175,7 @@ hr {
 
 #opening-header {
     color: #657383;
+    text-align: center;
 }
 
 
@@ -201,6 +202,23 @@ hr {
     display: inline-block;
     text-align: right;
 }
+
+.restaurant table {
+    text-align: left;
+    display: inline-block;
+
+}
+
+.terrace table {
+    text-align: left;
+    display: inline-block;
+}
+
+.garden table {
+    text-align: left;
+    display: inline-block;
+}
+
 
 /* footer */ 
 
