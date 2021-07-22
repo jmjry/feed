@@ -62,11 +62,13 @@ h1, h2 {
     height: 500px;
     width: 100%;
     background: url("../css/images/hero-image.JPG") no-repeat center center;
+    position: relative;
 
     animation-name: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
+
 
 #hero-outer{ 
     height: 500px;
@@ -92,8 +94,7 @@ h1, h2 {
     width: 80%;
     padding: 30px;
     margin: 0% auto;
-    margin-bottom: 50px;
-    text-align: center;
+    margin-bottom: 10px
 }
 
 /* index button */ 
