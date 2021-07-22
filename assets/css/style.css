@@ -176,28 +176,30 @@ hr {
 #opening-header {
     color: #657383;
 }
+
+
 .restaurant { 
     background-position: left;
     width: 33%;
-    text-align: center;
     color:#657383;
     display: inline-block;
+    text-align: left;
 }
 
 .terrace {
     background-position: center center;
     width: 33%;
-    text-align: center;
     color:#657383;
     display: inline-block;
+    text-align: center;
 }
 
 .garden {
     background-position: right;
     width: 33%;
-    text-align: center;
     color:#657383;
     display: inline-block;
+    text-align: right;
 }
 
 /* footer */ 
