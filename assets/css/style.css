@@ -343,9 +343,10 @@ p.menu-list__item-desc+span.dots {
 
 #opening-header_menu {
     color: #657383;
-    text-align: center;
-    width:200px;
-    height:200px;
+    text-align: center center;
+    width: 33%;
+    padding-right: 10%; 
+    height: 200px;
     position: absolute;
     left: 50%;
     margin-top: -100px;
