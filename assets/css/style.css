@@ -94,14 +94,8 @@ h1, h2 {
 
 /* introduction paragraph */
 
-#introduction {
-
-    font-size: large;
-    line-height: 20px;
-    width: 80%;
-    padding: 30px;
-    margin: 0% auto;
-    margin-bottom: 10px
+.introduction_paragraph {
+  
 }
 
 /* index button */ 
@@ -339,6 +333,12 @@ p.menu-list__item-desc+span.dots {
 #opening-header {
     color: #657383;
     text-align: center;
+    width: 100%;
+    padding-right: 50%; 
+    position: absolute;
+    margin-top: -200px;
+    padding-top: 15%;
+
 }
 
 #opening-header_menu {
@@ -348,7 +348,7 @@ p.menu-list__item-desc+span.dots {
     padding-right: 50%; 
     position: absolute;
     margin-top: -200px;
-    padding-top: 20%;
+    padding-top: 15%;
 }
 
 
@@ -358,7 +358,7 @@ p.menu-list__item-desc+span.dots {
     color:#657383;
     display: inline-block;
     text-align: left;
-    padding-top: 30%;
+    padding-top: 20%;
     margin-top: -200px;
 }
 
@@ -368,7 +368,7 @@ p.menu-list__item-desc+span.dots {
     color:#657383;
     display: inline-block;
     text-align: center;
-    padding-top: 30%;
+    padding-top: 20%;
     margin-top: -200px;
 }
 
@@ -378,7 +378,7 @@ p.menu-list__item-desc+span.dots {
     color:#657383;
     display: inline-block;
     text-align: right;
-    padding-top: 30%;
+    padding-top: 20%;
     margin-top: -200px; 
 }
 
