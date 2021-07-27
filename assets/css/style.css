@@ -337,7 +337,7 @@ p.menu-list__item-desc+span.dots {
 
 .booking_list {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
 
 
@@ -363,7 +363,6 @@ p.menu-list__item-desc+span.dots {
     margin-top: -200px;
     padding-top: 15%;
 }
-
 
 .restaurant { 
     background-position: left;
