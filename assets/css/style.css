@@ -335,6 +335,10 @@ p.menu-list__item-desc+span.dots {
   flex-direction: column;
 }
 
+.booking_list {
+  display: flex;
+  justify-content: space-around;
+}
 
 
 /* opening times */
