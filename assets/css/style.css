@@ -281,7 +281,6 @@ p.menu-list__item-desc+span.dots {
   font-size: 1.1875rem;
   line-height: 1.27316;
   font-weight: bold;
-  /* font-size: 15px; */
 }
 
 .menu-list__item-price p {
@@ -329,6 +328,12 @@ p.menu-list__item-desc+span.dots {
 
 /* booking page */ 
 
+.booking-section {
+  padding-top: 5%;
+  padding-right: 7.5%;
+  display: flex;
+  flex-direction: column;
+}
 
 
 
