@@ -441,5 +441,11 @@ footer{
     padding: 1%;
     color:#566D7E 
 }
+
+.footer_address {
+    font-size: 100%;
+    color:#566D7E;
+    text-align: center;
+}
   
   
