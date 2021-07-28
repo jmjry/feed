@@ -349,7 +349,7 @@ p.menu-list__item-desc+span.dots {
     width: 100%;
     padding-right: 50%; 
     position: absolute;
-    padding-top: 15%;
+    padding-top: 5%;
 
 }
 
@@ -359,7 +359,7 @@ p.menu-list__item-desc+span.dots {
     width: 100%;
     padding-right: 50%; 
     position: absolute;
-    padding-top: 15%;
+    padding-top: 5%;
 }
 
 .restaurant { 
@@ -368,7 +368,7 @@ p.menu-list__item-desc+span.dots {
     color:#657383;
     display: inline-block;
     text-align: left;
-    padding-top: 20%;
+    padding-top: 10%;
 }
 
 .terrace {
@@ -377,7 +377,7 @@ p.menu-list__item-desc+span.dots {
     color:#657383;
     display: inline-block;
     text-align: center;
-    padding-top: 20%;
+    padding-top: 10%;
 }
 
 .garden {
@@ -386,7 +386,7 @@ p.menu-list__item-desc+span.dots {
     color:#657383;
     display: inline-block;
     text-align: right;
-    padding-top: 20%;
+    padding-top: 10%;
 }
 
 .restaurant table {
