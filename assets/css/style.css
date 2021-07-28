@@ -295,7 +295,7 @@ p.menu-list__item-desc+span.dots {
 .menu-list__item-price p {
   color: #e3b379;
   font-size: 17px;
-  font-family: 'Source Sans Pro', Arial;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .menu-list__item-highlight-title {
