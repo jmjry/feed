@@ -351,6 +351,22 @@ p.menu-list__item-desc+span.dots {
   justify-content: space-evenly;
 }
 
+#bname {
+  height: 25px;
+}
+
+#pnumber {
+  height: 25px;
+}
+
+#food_requirements {
+  height: 25px;
+}
+
+#booking_size {
+  height: 25px;
+}
+
 
 /* opening times */
 
