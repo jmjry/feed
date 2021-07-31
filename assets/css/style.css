@@ -61,6 +61,8 @@ header {
     border-bottom: 1px solid #657383;
 }
 
+
+
 #feed-title{
     text-transform: uppercase;
     letter-spacing: 5px;
@@ -448,4 +450,20 @@ footer{
     text-align: center;
 }
   
-  
+
+/* media queries */ 
+
+/* for small screens */ 
+
+@media screen and (max-width: 360px) {
+  #nav {
+   font-size: 100%;
+   padding-top: 10%;
+}
+
+#logo {
+font-size: 100%;
+padding-left: 40%;
+} 
+
+}
