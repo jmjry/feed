@@ -86,9 +86,6 @@ header {
     animation-fill-mode: forwards;
 }
 
-
-
-
 #hero-outer{ 
     height: 500px;
     width: 100%;
@@ -105,10 +102,6 @@ header {
 }
 
 /* introduction paragraph */
-
-.introduction_paragraph {
-  
-}
 
 /* index button */ 
 
@@ -169,13 +162,18 @@ hr {
 
 #current-dishes {
         display: flex;
-        height: 500px;
       }
+
+#current-dishes h2 { 
+  min-height: 50px;
+}
 
  .column {
         flex: 33.33%;
         padding: 5px;
       }
+
+
 
       /* Menu */
 
@@ -453,6 +451,25 @@ footer{
 
 /* media queries */ 
 
+/* for screen sizes of 902 */
+
+@media screen and (max-width: 902px) {
+
+  #current-dishes { 
+    flex-direction: column;
+  }
+
+  .column {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+}
+
 /* for screen sizes of 411 x 731 */ 
 
 @media screen and (max-width: 411px) {
@@ -470,10 +487,6 @@ padding-left: 35%;
 #feed-title {
   text-align: center;
   font-size: 130%;
-}
-
-.column {
-  width: 200%;
 }
 
 }
@@ -515,7 +528,4 @@ padding-left: 37%;
   text-align: center;
   font-size: 110%;
 }
-
 }
-
-
