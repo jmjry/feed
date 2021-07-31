@@ -453,17 +453,18 @@ footer{
 
 /* media queries */ 
 
-/* for screen sizes of 360 x 640 */ 
+/* for screen sizes of 411 x 731 */ 
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 411px) {
   #nav {
-   font-size: 100%;
+   font-size: 130%;
+   padding-right: 100%;
    padding-top: 10%;
-}
+  }
 
 #logo {
-font-size: 100%;
-padding-left: 40%;
+font-size: 180%;
+padding-left: 35%;
 } 
 
 }
@@ -483,18 +484,19 @@ padding-left: 38%;
 
 }
 
-/* for screen sizes of 411 x 731 */ 
+/* for screen sizes of 360 x 640 */ 
 
-@media screen and (max-width: 411px) {
+@media screen and (max-width: 360px) {
   #nav {
-   font-size: 130%;
-   padding-right: 100%;
+   font-size: 100%;
    padding-top: 10%;
-  }
+}
 
 #logo {
-font-size: 180%;
-padding-left: 35%;
+font-size: 100%;
+padding-left: 37%;
 } 
 
 }
+
+
