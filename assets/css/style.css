@@ -482,3 +482,19 @@ padding-left: 38%;
 } 
 
 }
+
+/* for screen sizes of 411 x 731 */ 
+
+@media screen and (max-width: 411px) {
+  #nav {
+   font-size: 130%;
+   padding-right: 100%;
+   padding-top: 10%;
+  }
+
+#logo {
+font-size: 180%;
+padding-left: 35%;
+} 
+
+}
