@@ -453,7 +453,7 @@ footer{
 
 /* media queries */ 
 
-/* for small screens */ 
+/* for screen sizes of 360 x 640 */ 
 
 @media screen and (max-width: 360px) {
   #nav {
@@ -464,6 +464,21 @@ footer{
 #logo {
 font-size: 100%;
 padding-left: 40%;
+} 
+
+}
+
+/* for screen sizes of 375 x 667 */ 
+
+@media screen and (max-width: 375px) {
+  #nav {
+   font-size: 100%;
+   padding-top: 10%;
+}
+
+#logo {
+font-size: 100%;
+padding-left: 38%;
 } 
 
 }
