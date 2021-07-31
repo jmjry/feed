@@ -467,6 +467,15 @@ font-size: 180%;
 padding-left: 35%;
 } 
 
+#feed-title {
+  text-align: center;
+  font-size: 130%;
+}
+
+.column {
+  width: 200%;
+}
+
 }
 
 /* for screen sizes of 375 x 667 */ 
@@ -482,6 +491,11 @@ font-size: 100%;
 padding-left: 38%;
 } 
 
+#feed-title {
+  text-align: center;
+  font-size: 110%;
+}
+
 }
 
 /* for screen sizes of 360 x 640 */ 
@@ -496,6 +510,11 @@ padding-left: 38%;
 font-size: 100%;
 padding-left: 37%;
 } 
+
+#feed-title {
+  text-align: center;
+  font-size: 110%;
+}
 
 }
 
