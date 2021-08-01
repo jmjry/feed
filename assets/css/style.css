@@ -469,7 +469,36 @@ footer{
 
 #opening { 
   display: inline-flex;
+}
+}
 
+/* for screen sizes of 612 */
+
+@media screen and (max-width: 612px) {
+
+  #current-dishes { 
+    flex-direction: column;
+  }
+
+  .column {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+#opening { 
+  display: inline-flex;
+}
+
+#nav { 
+  font-size: 150%;
+}
+
+#opening { 
+  font-size: 70%;
 }
 
 }
