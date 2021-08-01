@@ -3,7 +3,6 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     color: #566D7E;
-    height: 480px;
 }
 
 /* headings & logo */ 
@@ -468,6 +467,11 @@ footer{
     margin-bottom: 20px;
 }
 
+#opening { 
+  display: inline-flex;
+
+}
+
 }
 
 /* for screen sizes of 411 */ 
@@ -528,4 +532,5 @@ padding-left: 37%;
   text-align: center;
   font-size: 110%;
 }
+
 }
