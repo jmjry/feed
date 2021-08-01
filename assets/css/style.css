@@ -470,7 +470,7 @@ footer{
 
 }
 
-/* for screen sizes of 411 x 731 */ 
+/* for screen sizes of 411 */ 
 
 @media screen and (max-width: 411px) {
   #nav {
@@ -491,7 +491,7 @@ padding-left: 35%;
 
 }
 
-/* for screen sizes of 375 x 667 */ 
+/* for screen sizes of 375 */ 
 
 @media screen and (max-width: 375px) {
   #nav {
@@ -511,7 +511,7 @@ padding-left: 38%;
 
 }
 
-/* for screen sizes of 360 x 640 */ 
+/* for screen sizes of 360 */ 
 
 @media screen and (max-width: 360px) {
   #nav {
