@@ -349,6 +349,9 @@ p.menu-list__item-desc+span.dots {
   display: flex;
   flex-direction: column;
   width: 100%;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .booking_list {
@@ -358,18 +361,26 @@ p.menu-list__item-desc+span.dots {
 
 #bname {
   height: 25px;
+  margin-top: 10px;
+  margin-bottom: 5px;
 }
 
 #pnumber {
   height: 25px;
+  margin-top: 10px;
+  margin-bottom: 5px;
 }
 
 #food_requirements {
   height: 25px;
+  margin-top: 10px;
+  margin-bottom: 5px;
 }
 
 #booking_size {
   height: 25px;
+  margin-top: 10px;
+  margin-bottom: 5px;
 }
 
 
