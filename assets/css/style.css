@@ -360,6 +360,7 @@ p.menu-list__item-desc+span.dots {
 .booking_list {
   display: flex;
   justify-content: space-evenly;
+  list-style-type: none;
 }
 
 #bname {
