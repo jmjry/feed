@@ -17,7 +17,7 @@ h1, h2 {
 #logo{ 
 
     float: left;
-    font-size: 250%;
+    font-size: 2.5em;
     margin-left: 20px;
 }
 
@@ -34,7 +34,7 @@ header {
 }
 
 #nav{
-    font-size: 200%;
+    font-size: 2em;
     letter-spacing: 5px;
     top: 0%;
     width: 100%;
@@ -116,7 +116,7 @@ header {
     color: #657383;
     padding: 16px 32px;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 0.25em;
     border-radius: 10%;
     transition-duration: 0.4s;
     position: absolute;
@@ -188,7 +188,7 @@ hr {
   display: block;
   width: 100%;
   max-width: 1200px;
-  padding-top:25px;
+  padding-top:2 5px;
   height: 100%;
 }
 
@@ -268,7 +268,7 @@ hr {
   position: relative;
   z-index: 5;
   background-color: white;
-  font-size: 20px;
+  font-size: 0.2em;
   font-weight: 600;
   text-transform: uppercase;
 }
@@ -296,7 +296,7 @@ p.menu-list__item-desc+span.dots {
   z-index: 1;
   max-width: 96px;
   background-color: white;
-  font-size: 19px;
+  font-size: 0.19em;
   font-size: 1.1875rem;
   line-height: 1.27316;
   font-weight: bold;
@@ -304,7 +304,7 @@ p.menu-list__item-desc+span.dots {
 
 .menu-list__item-price p {
   color: #e3b379;
-  font-size: 17px;
+  font-size: 0.17em;
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -313,7 +313,7 @@ p.menu-list__item-desc+span.dots {
   top: -38px;
   left: -18px;
   padding: 0 18px;
-  font-size: 13px;
+  font-size: 0.13em;
   text-transform: uppercase;
   letter-spacing: 0.250em;
   color: white;
@@ -458,14 +458,14 @@ footer{
 }
 
 .social-networks i {
-    font-size: 200%;
+    font-size: 2em;
     margin: 5%;
     padding: 1%;
     color:#566D7E 
 }
 
 .footer_address {
-    font-size: 100%;
+    font-size: 1em;
     color:#566D7E;
     text-align: center;
 }
