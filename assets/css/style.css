@@ -517,11 +517,11 @@ footer{
 }
 
 #nav { 
-  font-size: 150%;
+  font-size: 1.5em;
 }
 
 #opening { 
-  font-size: 70%;
+  font-size: 0.8em;
 }
 
 }
@@ -530,10 +530,16 @@ footer{
 
 @media screen and (max-width: 538px) {
   #nav {
-    font-size: 130%;
+    font-size: 1.4em;
+  }
+
+  .introduction_paragraph {
+    font-size: 0.9em;
   }
 
 }
+
+
 
 /* for screen sizes of 411 */ 
 
