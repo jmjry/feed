@@ -53,6 +53,8 @@ Content regarding testing processes undertaken eg: How each feature works as pla
 
 Reference to all content and media used in the project with specific sources. 
 
+[CSS Code Formatter](https://www.freeformatter.com/css-beautifier.html#ad-output)
+
 ### Content 
 * https://www.w3schools.com/default.asp
 * https://www.figma.com/files/recent?fuid=996809097714597820
