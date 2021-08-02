@@ -397,6 +397,8 @@ p.menu-list__item-desc+span.dots {
 #opening-header_menu {
     color: #657383;
     text-align: center;
+    width: fit-content;
+    margin: auto;
 }
 
 .restaurant { 
