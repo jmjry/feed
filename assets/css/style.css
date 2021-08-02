@@ -104,6 +104,8 @@ header {
 
 .introduction_paragraph {
   line-height: 250%;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
 /* index button */ 
