@@ -102,6 +102,10 @@ header {
 
 /* introduction paragraph */
 
+.introduction_paragraph {
+  line-height: 250%;
+}
+
 /* index button */ 
 
 #menu-button {
