@@ -525,6 +525,15 @@ footer{
 
 }
 
+/* for screen sizes of 538 */ 
+
+@media screen and (max-width: 538px) {
+  #nav {
+    font-size: 130%;
+  }
+
+}
+
 /* for screen sizes of 411 */ 
 
 @media screen and (max-width: 411px) {
