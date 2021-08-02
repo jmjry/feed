@@ -1,6 +1,6 @@
 body {
     
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Open Sans", sans-serif;
     font-weight: 400;
     color: #566D7E;
 }
@@ -8,7 +8,7 @@ body {
 /* headings & logo */ 
 
 h1, h2 { 
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Open Sans", sans-serif;
     text-transform: uppercase;
     letter-spacing: 5px; 
     color: #657383;
@@ -305,7 +305,7 @@ p.menu-list__item-desc+span.dots {
 .menu-list__item-price p {
   color: #e3b379;
   font-size: 0.17em;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 .menu-list__item-highlight-title {
