@@ -569,11 +569,20 @@ footer {
 		max-height: 20px;
 		position: absolute;
 	}
+
+	#opening-header_menu {
+		max-height: 20px;
+		position: absolute;
+	}
+
+	#booking_title {
+		padding-top: 20px;
+	}
 }
 
-/* for screen sizes of 464 */
+/* for screen sizes of 465 */
 
-@media screen and (max-width: 464px) {
+@media screen and (max-width: 465px) {
 
 	#nav { 
 		font-size: 1.1em;
@@ -593,9 +602,9 @@ footer {
 
 }
 
-/* for screen sizes of 435 */
+/* for screen sizes of 437 */
 
-@media screen and (max-width: 435px) {
+@media screen and (max-width: 437px) {
 
 	#nav { 
 		font-size: 1em;
@@ -607,8 +616,27 @@ footer {
 
 }
 
-/* for screen sizes of 417 */
+/* for screen sizes of 420 */
 
-@media screen and (max-width: 417px) {
+@media screen and (max-width: 420px) {
+
+	#logo {
+		padding-left: 37%;
+	}
+
+	#nav { 
+		margin-top: 50px;
+	}
+
+}
+
+	
+	/* for screen sizes of 381 */
+
+@media screen and (max-width: 381px) {
+
+	#feed-title { 
+		font-size: 1em;
+	}
 
 }
