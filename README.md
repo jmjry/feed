@@ -1,7 +1,8 @@
 # Project: Feed 
 Feed is a brand new Oxford based fine dining restaurant opening in January 2022. I was approached by the owners of Feed to design a unique website which accurately represents their style, goal and additionally helps Feed win more customers.
 
-(INSERT IMAGE HERE)
+<img width="1677" alt="Responsive Design" src="https://user-images.githubusercontent.com/86608354/128042075-7b9b7fe9-6e38-437c-a666-428c9c53ddf0.png">
+
 
 ## Features 
 
