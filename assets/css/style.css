@@ -346,6 +346,10 @@ p.menu-list__item-desc+span.dots {
 	}
 }
 
+.menu_content {
+	width: 85%;
+}
+
 
 /* booking page */
 
@@ -683,10 +687,6 @@ footer {
 
 	#opening{ 
 		display: inline;
-	}
-	
-	.menu_content {
-		width: 85%;
 	}
 
 }
