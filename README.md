@@ -3,6 +3,11 @@ Feed is a brand new Oxford based fine dining restaurant opening in January 2022.
 
 <img width="1677" alt="Responsive Design" src="https://user-images.githubusercontent.com/86608354/128042075-7b9b7fe9-6e38-437c-a666-428c9c53ddf0.png">
 
+## Planning Process:
+
+* [Initial draft visual representation](https://www.figma.com/file/O8Hf0NU6RWhKRUpCXL9qY4/Wireframing-in-Figma?node-id=109%3A276)
+* Mobile Wireframes 
+* Desktop Wireframes
 
 ## Features 
 
@@ -11,27 +16,26 @@ Feed is a brand new Oxford based fine dining restaurant opening in January 2022.
 ## Technologies: 
 For this project I will be using HTML5 & CSS. Eventually we will be looking to implement some additional technologies such as JavaScript to make the website more interactive.
 
-## Planning Process:
-
-* [Initial draft visual representation](https://www.figma.com/file/O8Hf0NU6RWhKRUpCXL9qY4/Wireframing-in-Figma?node-id=109%3A276)
-* Mobile Wireframes 
-* Desktop Wireframes
-
 #### Current features:
 
-* Navigation
-* Home 
-* Gallery 
-* Location 
-* Menu
-* Terrece  
-* Booking form 
+* F1 Navigation Bar 
+* F2 Hero Image  
+* F3 Example Dishes 
+* F4 Opening Times 
+* F5 Social Media 
+* F6 Address  
+* F7 Menu 
+* F8 Booking Form  
 
-### Features left to implement:
+### Features which could be implemented in the future:
 
-Content 
+* F9 Company Story 
+  * A page or section which explains how the company was founded, including who by, why it was founded and the company goals.
 
-* Feature 
+
+* F10 Navigation bar improvements 
+  * To improve design a hamburger menu could be implemented as this would save space on some smaller screens.
+
 
 ## Testing 
 
