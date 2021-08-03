@@ -640,3 +640,53 @@ footer {
 	}
 
 }
+
+/* for screen sizes of 320 */
+
+@media screen and (max-width: 320px) {
+
+	#logo { 
+		padding-left: 33%;
+	}
+
+	#nav {
+		font-size: 0.7em;
+	}
+
+	#feed-title {
+		text-align: justify;
+	}
+
+	.restaurant {
+		color: #657383;
+    	display: inline-block;
+    	text-align: left;
+		padding-left: 70px;
+		width: auto;
+	}
+
+	.terrace {
+		color: #657383;
+    	display: inline-block;
+    	text-align: left;
+		padding-left: 70px;
+		width: auto;
+	}
+
+	.garden {
+		color: #657383;
+    	display: inline-block;
+    	text-align: left;
+		padding-left: 70px;
+		width: auto;
+	}
+
+	#opening{ 
+		display: inline;
+	}
+	
+	.menu_content {
+		width: 85%;
+	}
+
+}
