@@ -532,57 +532,83 @@ footer {
 	}
 }
 
+/* for screen sizes of 538 */
 
-/* for screen sizes of 411 */
-
-@media screen and (max-width: 411px) {
-	#nav {
-		font-size: 130%;
-		padding-right: 100%;
-		padding-top: 10%;
-	}
+@media screen and (max-width: 524px) {
 	#logo {
-		font-size: 180%;
-		padding-left: 35%;
+		font-size: 1.8em;
 	}
-	#feed-title {
-		text-align: center;
-		font-size: 130%;
+
+}
+
+/* for screen sizes of 494 */
+
+@media screen and (max-width: 494px) {
+	#nav {
+		font-size: 1.2em;
 	}
 }
 
+/* for screen sizes of 492 */
 
-/* for screen sizes of 375 */
+@media screen and (max-width: 492px) {
 
-@media screen and (max-width: 375px) {
-	#nav {
-		font-size: 100%;
-		padding-top: 10%;
+	.restaurant{ 
+		margin-top: 100px
 	}
-	#logo {
-		font-size: 100%;
-		padding-left: 38%;
+
+	.terrace {
+		margin-top: 100px
 	}
-	#feed-title {
-		text-align: center;
-		font-size: 110%;
+
+	.garden {
+		margin-top: 100px
+	}
+
+	#opening-header {
+		max-height: 20px;
+		position: absolute;
 	}
 }
 
+/* for screen sizes of 464 */
 
-/* for screen sizes of 360 */
+@media screen and (max-width: 464px) {
 
-@media screen and (max-width: 360px) {
-	#nav {
-		font-size: 100%;
-		padding-top: 10%;
+	#nav { 
+		font-size: 1.1em;
 	}
-	#logo {
-		font-size: 100%;
-		padding-left: 37%;
+
+	#logo { 
+		font-size: 1.5em;
 	}
-	#feed-title {
-		text-align: center;
-		font-size: 110%;
+
+	#feed-title { 
+		font-size: 1.2em ;
 	}
+
+	#menu-button { 
+		font-size: 1em;
+	}
+
+}
+
+/* for screen sizes of 435 */
+
+@media screen and (max-width: 435px) {
+
+	#nav { 
+		font-size: 1em;
+	}
+
+	#logo { 
+		font-size: 1.4em;
+	}
+
+}
+
+/* for screen sizes of 417 */
+
+@media screen and (max-width: 417px) {
+
 }
