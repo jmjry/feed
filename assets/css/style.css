@@ -618,6 +618,35 @@ footer {
 		font-size: 1.4em;
 	}
 
+
+	.restaurant {
+		color: #657383;
+    	display: inline-block;
+    	text-align: left;
+		padding-left: 130px;
+		width: auto;
+	}
+
+	.terrace {
+		color: #657383;
+    	display: inline-block;
+    	text-align: left;
+		padding-left: 130px;
+		width: auto;
+	}
+
+	.garden {
+		color: #657383;
+    	display: inline-block;
+    	text-align: left;
+		padding-left: 130px;
+		width: auto;
+	}
+
+	#opening{ 
+		display: inline;
+	}
+
 }
 
 /* for screen sizes of 420 */
