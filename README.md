@@ -6,7 +6,7 @@ Feed is a brand new Oxford based fine dining restaurant opening in January 2022.
 ## Planning Process:
 
 * [Initial draft visual representation](https://www.figma.com/file/O8Hf0NU6RWhKRUpCXL9qY4/Wireframing-in-Figma?node-id=109%3A276)
-* Mobile Wireframes [Mobile Wireframes PDF.pdf](https://github.com/jmjry/feed/files/6925747/Mobile.Wireframes.PDF.pdf)
+* [Mobile Wireframes](https://github.com/jmjry/feed/files/6925747/Mobile.Wireframes.PDF.pdf)
  
 * Desktop Wireframes
 
