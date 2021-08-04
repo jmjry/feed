@@ -25,8 +25,16 @@ For this project I will be using HTML5 & CSS. Eventually we will be looking to i
 
 
 
-* F2 Hero Image  
-* F3 Example Dishes 
+* F2 Hero Image
+  * Immediately visible is the hero image, introduction text and action button. After loading the page, a small animation occurs giving a small zoom into the hero image. This was designed to draw attention to the image (the restaurant) and it's call to action - viewing the menu.
+  * Overlay introduction text is used to announce the opening of the restaurant in January 2022.
+  * Menu button is added to make the experience for a user easier by providing quick access to viewing the menu.
+  
+  ![Screenshot 2021-08-04 at 16 49 17](https://user-images.githubusercontent.com/86608354/128212613-b0037151-b3fe-45dd-82e4-5a81c4a7103c.png)
+
+* F3 Example Dishes
+
+
 * F4 Opening Times 
 * F5 Social Media 
 * F6 Address  
