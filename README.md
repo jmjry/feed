@@ -84,9 +84,9 @@ Content regarding testing processes undertaken eg: How each feature works as pla
 
 ![Screenshot 2021-08-04 at 16 25 33](https://user-images.githubusercontent.com/86608354/128210367-48daa719-8591-40cc-95b5-8074ea2612ff.png)
  
- ### Unfixed Bugs 
+ ### Known Bugs 
  
- Content if there is any unfixed bugs and why they are not fixed. 
+ * There are currently no known bugs on the website.
  
  ## Deployment 
 
