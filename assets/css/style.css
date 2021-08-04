@@ -170,6 +170,7 @@ hr {
 	float: left;
 	width: 30%;
 	flex: 33.33%;
+	padding: 10px;
 }
 
 #current-dishes::after {
@@ -515,6 +516,10 @@ footer {
 	#opening {
 		display: inline-flex;
 	}
+
+	.column {
+		padding: 0;
+	}
 }
 
 
@@ -555,20 +560,20 @@ footer {
 	}
 }
 
-/* for screen sizes of 538 */
+/* for screen sizes of 525 */
 
-@media screen and (max-width: 524px) {
-	#logo {
-		font-size: 1.8em;
+@media screen and (max-width: 525px) {
+	#nav {
+		font-size: 1.4em;
 	}
 
 }
 
-/* for screen sizes of 516 */
+/* for screen sizes of 508 */
 
-@media screen and (max-width: 516px) {
+@media screen and (max-width: 508px) {
 	#logo {
-		font-size: 1.5em;
+		font-size: 1.2em;
 	}
 
 }
@@ -634,9 +639,9 @@ footer {
 
 }
 
-/* for screen sizes of 437 */
+/* for screen sizes of 444 */
 
-@media screen and (max-width: 437px) {
+@media screen and (max-width: 444px) {
 
 	#nav { 
 		font-size: 1em;
@@ -677,9 +682,9 @@ footer {
 
 }
 
-/* for screen sizes of 408 */
+/* for screen sizes of 419 */
 
-@media screen and (max-width: 408px) {
+@media screen and (max-width: 419px) {
 
 	#logo { 
 		margin-left: 100px;
@@ -697,23 +702,17 @@ footer {
 
 }
 
-	/* for screen sizes of 381 */
+	/* for screen sizes of 358 */
 
-@media screen and (max-width: 381px) {
+@media screen and (max-width: 358px) {
 
 	#feed-title { 
 		font-size: 1em;
 	}
-
-}
-
-/* for screen sizes of 349 */ 
-
-@media screen and (max-width: 349px) {
-
+	
 	#nav {
 		font-size: 0.9em;
-	} 
+	}
 
 	#logo {
 		padding-left: 25%;
@@ -722,16 +721,26 @@ footer {
 
 }
 
-/* for screen sizes of 334 */
+/* for screen sizes of 344 */ 
 
-@media screen and (max-width: 334px) {
+@media screen and (max-width: 344px) {
+
+	#nav {
+		font-size: 0.8em;
+	} 
+
+}
+
+/* for screen sizes of 330 */
+
+@media screen and (max-width: 330px) {
 
 	#logo { 
 		padding-left: 25%;
 	}
 
 	#nav {
-		font-size: 0.8em;
+		font-size: 0.7em;
 	}
 
 	#feed-title {
