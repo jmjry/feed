@@ -7,7 +7,8 @@ Feed is a brand new Oxford based fine dining restaurant opening in January 2022.
 
 * [Initial draft visual representation](https://www.figma.com/file/O8Hf0NU6RWhKRUpCXL9qY4/Wireframing-in-Figma?node-id=109%3A276)
 * [Mobile Wireframes](https://github.com/jmjry/feed/files/6925747/Mobile.Wireframes.PDF.pdf)
-* [Desktop Wireframes](Uploading FEED - Wireframe Desktop .pdf…)
+* [Desktop Wireframes](https://github.com/jmjry/feed/files/6933275/FEED.-.Wireframe.Desktop.pdf)
+
 
 ### Changes to my planning process: 
 
@@ -123,7 +124,7 @@ Content regarding testing processes undertaken eg: How each feature works as pla
 ### Code 
 
 * As a go to reasource hub I used [W3S Schools](https://www.w3schools.com/default.asp).
-* To create my responsive picture examples I used [ami responsive](http://ami.responsivedesign.is).
+* To create my responsive picture examples I used [ami.responsive](http://ami.responsivedesign.is).
 * When stuck on a development issue, I checked [Stackoverflow](https://stackoverflow.com) to see if other developers had the same problems.
 * Information, code and tutorials for building my menu came from [this YouTube video](https://www.youtube.com/watch?v=cJjej5udWVE) [another developer](https://codepen.io/slstudios/pen/MbjRgg) and [W3Schools](https://www.w3schools.com/w3css/w3css_web_tmp_pizza.asp). Using techniques from all three of these I created my menu page.
 
