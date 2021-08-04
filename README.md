@@ -7,8 +7,7 @@ Feed is a brand new Oxford based fine dining restaurant opening in January 2022.
 
 * [Initial draft visual representation](https://www.figma.com/file/O8Hf0NU6RWhKRUpCXL9qY4/Wireframing-in-Figma?node-id=109%3A276)
 * [Mobile Wireframes](https://github.com/jmjry/feed/files/6925747/Mobile.Wireframes.PDF.pdf)
- 
-* Desktop Wireframes
+* [Desktop Wireframes]
 
 ## Features 
 
@@ -37,14 +36,31 @@ For this project I will be using HTML5 & CSS. Eventually we will be looking to i
   ![Example Dishes](https://user-images.githubusercontent.com/86608354/128213303-663ca629-eba6-4c44-82aa-0b461702e128.png)
 
 * F4 Opening Times 
-  *
+  * On all pages the Opening Times are displayed so that users may see when the restaurant is open. The design of this changes if the screen size is made smaller, it will reposition the text and headers to fit the page.
 
 ![Opening Times](https://user-images.githubusercontent.com/86608354/128213652-5c941286-60a0-45d7-bca5-d50fa1190313.png)
 
 * F5 Social Media 
+  * Each of the social media buttons will open a new tab and take the user to our associated social media page.
+
+![Social Media](https://user-images.githubusercontent.com/86608354/128214806-332a01e6-0062-4869-a74d-e8c828d37b0c.png)
+
 * F6 Address  
+  * Our address and phone number is available for users to view and use when planning a visit to the restaurant.
+
+![Address](https://user-images.githubusercontent.com/86608354/128214817-5f5a843b-f55e-4868-8264-228082a1dc83.png)
+
 * F7 Menu 
+  * Currently four menus are available on our website: Starters, Mains, Desserts and Hot Drinks. Each menu has a list of items avaialble, including a short description and the price associated with that item.
+  * Eventually we will look to implement other menus such as: Childrens, Sunday Lunch and Allergies.
+
+![Menu](https://user-images.githubusercontent.com/86608354/128214837-384228e0-9796-4f57-8d66-835b817145e3.png)
+
 * F8 Booking Form  
+  * Users can fill in the booking form to reserve a table at FEED. It is required that a user provides a name, phone number, booking size and booking time. Users can only enter a number into the phone number and booking size fields. 
+
+![Booking form](https://user-images.githubusercontent.com/86608354/128214860-cea691d5-5292-4583-bc66-7fdc784506b3.png)
+
 
 ### Features which could be implemented in the future:
 
