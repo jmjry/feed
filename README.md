@@ -1,5 +1,5 @@
 # Project: Feed 
-Feed is a brand new Oxford based fine dining restaurant opening in January 2022. I was approached by the owners of Feed to design a unique website which accurately represents their style, goal and additionally helps Feed win more customers.
+Feed is a brand new Oxford based fine dining restaurant opening in January 2022. I was approached by the owners of Feed to design a unique website which accurately represents their style, goal and additionally helps Feed win more customers. [Click here to view the live site](https://jmjry.github.io/feed/)
 
 <img width="1677" alt="Responsive Design" src="https://user-images.githubusercontent.com/86608354/128042075-7b9b7fe9-6e38-437c-a666-428c9c53ddf0.png">
 
@@ -20,6 +20,11 @@ For this project I will be using HTML5 & CSS. Eventually we will be looking to i
 #### Current features:
 
 * F1 Navigation Bar 
+  * The navigation bar used styles consistent with the website. It offers easy navigation through all of the websites pages with a Logo located in the top left of the screen (which can be clicked to take a user straight to the home page) and three headers in the top right: Home, Menu & Bookings. On smaller screen sizes, the font-size will shrink of each of these elements and eventually will reposition so that the Logo sits above the main Navigation bar.
+  ![Screenshot 2021-08-04 at 16 38 02](https://user-images.githubusercontent.com/86608354/128210953-489cea02-44b6-4297-8054-be577014eb4c.png)
+
+
+
 * F2 Hero Image  
 * F3 Example Dishes 
 * F4 Opening Times 
