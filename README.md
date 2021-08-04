@@ -3,11 +3,23 @@ Feed is a brand new Oxford based fine dining restaurant opening in January 2022.
 
 <img width="1677" alt="Responsive Design" src="https://user-images.githubusercontent.com/86608354/128042075-7b9b7fe9-6e38-437c-a666-428c9c53ddf0.png">
 
-## Planning Process:
+## Planning process:
 
 * [Initial draft visual representation](https://www.figma.com/file/O8Hf0NU6RWhKRUpCXL9qY4/Wireframing-in-Figma?node-id=109%3A276)
 * [Mobile Wireframes](https://github.com/jmjry/feed/files/6925747/Mobile.Wireframes.PDF.pdf)
-* [Desktop Wireframes]
+* [Desktop Wireframes]([Uploading FEED - Wireframe Desktop .pdf…])
+
+### Changes to my planning process: 
+
+#### Mobile Wireframes
+* Removed icon logo and used text logo in final design
+* Position of opening times only changed after tablet design (onto smaller screens)
+* Booking form was centered and two additions were made (radio button for booking time & submit button)
+
+#### Desktop Wireframes
+* Removed icon logo and used text logo in final design
+* Booking form was centered and two additions were made (radio button for booking time & submit button)
+
 
 ## Technologies: 
 For this project I will be using HTML5 & CSS. Eventually we will be looking to implement some additional technologies such as JavaScript to make the website more interactive.
@@ -75,7 +87,7 @@ For this project I will be using HTML5 & CSS. Eventually we will be looking to i
 
 Content regarding testing processes undertaken eg: How each feature works as planned, how the site looks on different devices, bugs found & how they were overcome. If section is too long create seperate document with link provided.
 
-### Validator Testing 
+### Validator testing 
 
 * HTML 
   * No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html) 
