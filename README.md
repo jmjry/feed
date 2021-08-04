@@ -1,5 +1,5 @@
-# Project: Feed 
-Feed is a brand new Oxford based fine dining restaurant opening in January 2022. I was approached by the owners of Feed to design a unique website which accurately represents their style, goal and additionally helps Feed win more customers. [Click here to view the live site](https://jmjry.github.io/feed/)
+# Project: FEED 
+FEED is a brand new Oxford based fine dining restaurant opening in January 2022. I was approached by the owners of FEED to design a unique website which accurately represents their style, goal and additionally helps FEED win more customers. [Click here to view the live site](https://jmjry.github.io/feed/)
 
 <img width="1677" alt="Responsive Design" src="https://user-images.githubusercontent.com/86608354/128042075-7b9b7fe9-6e38-437c-a666-428c9c53ddf0.png">
 
