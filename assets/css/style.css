@@ -169,7 +169,7 @@ hr {
 .column {
 	float: left;
 	width: 30%;
-	padding: 10px;
+	flex: 33.33%;
 }
 
 #current-dishes::after {
@@ -185,11 +185,6 @@ hr {
 #current-dishes h2 {
 	min-height: 50px;
 	text-align: center;
-}
-
-.column {
-	flex: 33.33%;
-	padding: 5px;
 }
 
 #steak {
