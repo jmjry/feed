@@ -33,9 +33,14 @@ For this project I will be using HTML5 & CSS. Eventually we will be looking to i
   ![Screenshot 2021-08-04 at 16 49 17](https://user-images.githubusercontent.com/86608354/128212613-b0037151-b3fe-45dd-82e4-5a81c4a7103c.png)
 
 * F3 Example Dishes
-
+  * This section provides images and titles relating to some dishes from the menu. A user gets the opportunity to view a dish before looking further into the website.
+  ![Example Dishes](https://user-images.githubusercontent.com/86608354/128213303-663ca629-eba6-4c44-82aa-0b461702e128.png)
 
 * F4 Opening Times 
+  *
+
+![Opening Times](https://user-images.githubusercontent.com/86608354/128213652-5c941286-60a0-45d7-bca5-d50fa1190313.png)
+
 * F5 Social Media 
 * F6 Address  
 * F7 Menu 
