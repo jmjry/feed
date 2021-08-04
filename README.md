@@ -9,20 +9,22 @@ Feed is a brand new Oxford based fine dining restaurant opening in January 2022.
 * [Mobile Wireframes](https://github.com/jmjry/feed/files/6925747/Mobile.Wireframes.PDF.pdf)
 * [Desktop Wireframes]
 
-## Features 
-
-### Content regarding features 
-
 ## Technologies: 
 For this project I will be using HTML5 & CSS. Eventually we will be looking to implement some additional technologies such as JavaScript to make the website more interactive.
 
-#### Current features:
+### Frameworks, Libraries & Programs: 
+* [Font Awesome](https://fontawesome.com) was used to add icons for UX purposes.
+* [GitPod](https://www.gitpod.io/) was the version control used.
+* [GitHub](https://github.com/) is the repository used for project codes to be pushed from GitPod.
+* [Balsamiq](https://balsamiq.com/) was used to create wireframes during the design process of this project.
+
+## Features 
+
+### Current features:
 
 * F1 Navigation Bar 
   * The navigation bar used styles consistent with the website. It offers easy navigation through all of the websites pages with a Logo located in the top left of the screen (which can be clicked to take a user straight to the home page) and three headers in the top right: Home, Menu & Bookings. On smaller screen sizes, the font-size will shrink of each of these elements and eventually will reposition so that the Logo sits above the main Navigation bar.
   ![Screenshot 2021-08-04 at 16 38 02](https://user-images.githubusercontent.com/86608354/128210953-489cea02-44b6-4297-8054-be577014eb4c.png)
-
-
 
 * F2 Hero Image
   * Immediately visible is the hero image, introduction text and action button. After loading the page, a small animation occurs giving a small zoom into the hero image. This was designed to draw attention to the image (the restaurant) and it's call to action - viewing the menu.
@@ -61,16 +63,13 @@ For this project I will be using HTML5 & CSS. Eventually we will be looking to i
 
 ![Booking form](https://user-images.githubusercontent.com/86608354/128214860-cea691d5-5292-4583-bc66-7fdc784506b3.png)
 
-
 ### Features which could be implemented in the future:
 
 * F9 Company Story 
   * A page or section which explains how the company was founded, including who by, why it was founded and the company goals.
 
-
 * F10 Navigation bar improvements 
   * To improve design a hamburger menu could be implemented as this would save space on some smaller screens.
-
 
 ## Testing 
 
@@ -109,11 +108,20 @@ Content regarding testing processes undertaken eg: How each feature works as pla
 * All written content, including the Menu, is original content written by the developer. 
 * All media included on the website is original content given to the developer with permission to use for this project.
 
-
 ### Code 
 
 * As a go to reasource hub I used [W3S Schools](https://www.w3schools.com/default.asp).
-* Information, code and tutorials for building my menu came from [here](https://www.youtube.com/watch?v=cJjej5udWVE) [here](https://codepen.io/slstudios/pen/MbjRgg) and [here](https://www.w3schools.com/w3css/w3css_web_tmp_pizza.asp).
+* To create my responsive picture examples I used [ami responsive](http://ami.responsivedesign.is).
+* When stuck on a development issue, I checked [Stackoverflow](https://stackoverflow.com) to see if other developers had the same problems.
+* Information, code and tutorials for building my menu came from [this YouTube video](https://www.youtube.com/watch?v=cJjej5udWVE) [another developer](https://codepen.io/slstudios/pen/MbjRgg) and [W3Schools](https://www.w3schools.com/w3css/w3css_web_tmp_pizza.asp). Using techniques from all three of these I created my menu page.
 
 
 ### Media 
+
+* Fonts were imported from [Google Fonts](https://fonts.google.com/)
+* Icons in the Opening Times were imported from [Font Awesome](https://fontawesome.com)
+* All images are unique and was provided to me by Lewis Ryan who is the owner of all these images. Lewis has given me full rights to use these images in this project. 
+
+### Acknowledgments
+
+* I'd like to thank Brian Macharia, Matt Bodden, Anthony O'Brien, Steve Forrest and Jack Conroy for providing feedback, ideas and suggestions for improving my site. 
