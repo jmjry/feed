@@ -376,6 +376,7 @@ p.menu-list__item-desc+span.dots {
 	max-width: 800px;
 	margin-left: auto;
 	margin-right: auto;
+	padding-bottom: 5%;
 }
 
 .booking_list {
