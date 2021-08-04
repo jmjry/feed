@@ -48,6 +48,8 @@ Content regarding testing processes undertaken eg: How each feature works as pla
   * No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html) 
  * CSS
    * No erros were found when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/)  
+
+![Screenshot 2021-08-04 at 16 25 33](https://user-images.githubusercontent.com/86608354/128210367-48daa719-8591-40cc-95b5-8074ea2612ff.png)
  
  ### Unfixed Bugs 
  
