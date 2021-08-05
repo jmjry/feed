@@ -69,7 +69,8 @@ For this project I will be using HTML5 & CSS. Eventually we will be looking to i
   * Currently four menus are available on our website: Starters, Mains, Desserts and Hot Drinks. Each menu has a list of items avaialble, including a short description and the price associated with that item.
   * Eventually we will look to implement other menus such as: Childrens, Sunday Lunch and Allergies.
 
-![Menu](https://user-images.githubusercontent.com/86608354/128214837-384228e0-9796-4f57-8d66-835b817145e3.png)
+![New menu sc](https://user-images.githubusercontent.com/86608354/128360987-5f8f982c-8507-4c17-8902-06bd26384b71.png)
+
 
 * F8 Booking Form  
   * Users can fill in the booking form to reserve a table at FEED. It is required that a user provides a name, phone number, booking size and booking time. Users can only enter a number into the phone number and booking size fields. 
