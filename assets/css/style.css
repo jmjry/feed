@@ -219,6 +219,8 @@ hr {
 	padding-bottom: 25px;
 }
 
+/* code template referenced in README */
+
 .page-template-menu-template .interior-cta-background {
 	display: inline-block;
 	width: 100%;
@@ -322,37 +324,9 @@ p.menu-list__item-desc+span.dots {
 	font-weight: bold;
 }
 
-.menu-list__item-price p {
-	color: #e3b379;
-	font-size: 1em;
-	font-family: "Open Sans", sans-serif;
-}
-
-.menu-list__item-highlight-title {
-	position: absolute;
-	top: -38px;
-	left: -18px;
-	padding: 0 18px;
-	font-size: 0.13em;
-	text-transform: uppercase;
-	letter-spacing: 0.250em;
-	color: white;
-	background-color: #c59d5f
-}
-
 .menu-list__item-highlight-wrapper {
 	margin-top: 54px;
 	margin-bottom: 38px
-}
-
-.menu-list__item-highlight-wrapper:before {
-	content: '';
-	position: absolute;
-	top: -18px;
-	left: -18px;
-	right: -18px;
-	bottom: -18px;
-	border: 2px solid #c59d5f
 }
 
 @media(max-width:1000px) {
