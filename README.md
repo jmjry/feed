@@ -118,6 +118,13 @@ Testing was undertaken at the start, during and after finishing my project. To c
 
 ![Screenshot 2021-08-04 at 16 25 33](https://user-images.githubusercontent.com/86608354/128210367-48daa719-8591-40cc-95b5-8074ea2612ff.png)
  
+ ### Accessibility testing 
+ * I used [WAVE, you can see my report here](https://wave.webaim.org/report#/https://jmjry.github.io/feed/) to test the website accessibility. It was found to have 0 errors however one contrast error was found in my hero button. This contrast is purposely added so that when a user hovers over the button the colour changes.
+
+![Screenshot 2021-08-05 at 15 22 18](https://user-images.githubusercontent.com/86608354/128366602-6d8bc637-ab0c-453e-8c0d-0cd1a041e3a5.png)
+![Screenshot 2021-08-05 at 15 22 30](https://user-images.githubusercontent.com/86608354/128366605-89c9ee27-6042-4de7-b70b-a007c937fa0f.png)
+
+ 
  ### Known Bugs 
  
  * During the validator testing I discovered that a paragraph element can not be a child of a span element. After discovering this, I made the correct changes to my code and retested to ensure it was correct.
