@@ -85,6 +85,9 @@ For this project I will be using HTML5 & CSS. Eventually we will be looking to i
 * F10 Navigation bar improvements 
   * To improve design a hamburger menu could be implemented as this would save space on some smaller screens.
 
+* F11 Inegrations 
+  * Eventually the availbility to inegrate the website with OpenTable (or similar). This would benefit the users as their booking process would be smoother, with email reminders and rewards available.
+
 ## Testing 
 
 Content regarding testing processes undertaken eg: How each feature works as planned, how the site looks on different devices, bugs found & how they were overcome. If section is too long create seperate document with link provided.
