@@ -97,6 +97,12 @@ Content regarding testing processes undertaken eg: How each feature works as pla
 
 * HTML 
   * No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html) 
+
+![HTML VALIDATOR - HOME](https://user-images.githubusercontent.com/86608354/128360719-9c01455d-e1aa-4f32-8063-8e67a626a3e8.png)
+![HTML VALIDATOR - MENU](https://user-images.githubusercontent.com/86608354/128360744-411432b6-0fcd-431a-8ba7-f795e89d2bdd.png)
+![HTML VALIDATOR - BOOKINGS](https://user-images.githubusercontent.com/86608354/128360753-ce07824a-31db-47f5-9d63-fb06692660be.png)
+
+
  * CSS
    * No erros were found when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/)  
 
