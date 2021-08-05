@@ -1,164 +1,218 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Feed is a brand new restaurant opening in Oxford, UK">
-    <meta name="keywords" content="feed, restaurant, dinner, lunch, oxford">
-    
-    <link rel="stylesheet" href="assets/css/style.css">
-
-    <title>Feed | Booking</title>
-
-    <script src="https://kit.fontawesome.com/b1dca606d6.js" crossorigin="anonymous"></script>
-
-</head>
-<body>
-   <header>
-      <nav id="nav">
-       <a href="index.html">
-           <h1 id="logo">Feed</h1>
-       </a>
-        <ul>
-             <li>
-             <a href="book.html" class="active">Bookings</a></li>
-             <li>
-             <a href="menu.html">Menu</a></li>
-             <li>
-             <a href="index.html">Home</a></li>
-        </ul>
- 
-    </nav>
-   </header>
-   <section class="booking-section">
-       <form method="GET" action="https://formdump.codeinstitute.net" class="booking-section"> 
-           <h2 id="booking_title"> Bookings </h2>
-           <label for="bname">Booking Name</label>
-           <input id="bname" name="booking_name" type="text" class="text-input" placeholder="John Smith" required>
-
-           <label for="pnumber">Phone Number</label>
-           <input id="pnumber" name="phone_number" type="number" class="text-input" placeholder="+44" required>
-
-           <label for="food_requirements">Requirements (Allergies, Special occasions etc)</label>
-           <input id="food_requirements" name="food_requirements" type="text" class="text-input" placeholder="N/A, Gluten-free, Birthday .. etc">
-
-           <label for="booking_size">Booking Size</label>
-           <input id="booking_size" name="booking_size" type="number" class="text-input" placeholder="Number of guests" required>
-
-           <label>Lunch Bookings</label>
-        <ul class="booking_list">
-        <li> 
-           <label for="booking_12">12pm</label>
-           <input type="radio" id="booking_12" name="booking_time" value="12pm" required>
-        </li>
-        <li> 
-           <label for="booking_1230">12:30pm</label>
-           <input type="radio" id="booking_1230" name="booking_time" value="1230pm" required>
-        </li>
-        <li> 
-           <label for="booking_1">1pm</label>
-           <input type="radio" id="booking_1" name="booking_time" value="1pm" required>
-        </li>
-        <li> 
-           <label for="booking_130">1:30pm</label>
-           <input type="radio" id="booking_130" name="booking_time" value="130pm" required>
-        </li>
-        <li> 
-           <label for="booking_2">2pm</label>
-           <input type="radio" id="booking_2" name="booking_time" value="2pm" required>
-        </ul>
-           <label>Evening Bookings</label>
-           <ul class="booking_list">
-        <li> 
-           <label for="booking_6">6pm</label>
-           <input type="radio" id="booking_6" name="booking_time" value="6pm" required>
-        </li>
-        <li> 
-           <label for="booking_630">6:30pm</label>
-           <input type="radio" id="booking_630" name="booking_time" value="630pm" required>
-        </li>
-        <li> 
-           <label for="booking_7">7pm</label>
-           <input type="radio" id="booking_7" name="booking_time" value="7pm" required>
-        </li>
-        <li> 
-           <label for="booking_730">7:30pm</label>
-           <input type="radio" id="booking_730" name="booking_time" value="730pm" required>
-        </li>
-        <li> 
-           <label for="booking_8">8pm</label>
-           <input type="radio" id="booking_8" name="booking_time" value="8pm" required>
-        </li>
-        <li> 
-           <label for="booking_830">8:30pm</label>
-           <input type="radio" id="booking_830" name="booking_time" value="8:30pm" required>
-        </li>     
-    </ul>
-           <input class="book-button" type="submit" value="Book Table">
-        </form>
-   </section>
-
-   <section id="opening">
-    <h2 id="opening-header"> Opening Times </h2> 
-    <div class="restaurant"> 
-      <h3> Restaurant </h3>
-        <table> 
-        <tr><th>Sunday</th><td>9am - 5pm</td></tr> 
-        <tr><th>Monday</th><td>Closed</td></tr> 
-        <tr><th>Tuesday</th><td>Closed</td></tr>
-         <tr><th>Wednesday</th><td>12pm - 10pm</td></tr>
-         <tr><th>Thursday</th><td>12pm - 10pm</td></tr> 
-        <tr><th>Friday</th><td>9am - 12pm</td></tr> 
-        <tr><th>Saturday</th><td>9am - 12pm</td></tr> 
-        </table>
-    </div>
-    <div class="terrace"> 
-      <h3> Terrace </h3>
-        <table> 
-        <tr><th>Sunday</th><td>9am - 5pm</td></tr> 
-        <tr><th>Monday</th><td>Closed</td></tr> 
-        <tr><th>Tuesday</th><td>Closed</td></tr>
-         <tr><th>Wednesday</th><td>12pm - 10pm</td></tr>
-         <tr><th>Thursday</th><td>12pm - 10pm</td></tr> 
-        <tr><th>Friday</th><td>9am - 12pm</td></tr> 
-        <tr><th>Saturday</th><td>9am - 12pm</td></tr> 
-        </table>
-    </div>
-    <div class="garden"> 
-      <h3> Garden </h3>
-        <table> 
-        <tr><th>Sunday</th><td>9am - 5pm</td></tr> 
-        <tr><th>Monday</th><td>Closed</td></tr> 
-        <tr><th>Tuesday</th><td>Closed</td></tr>
-         <tr><th>Wednesday</th><td>12pm - 10pm</td></tr>
-         <tr><th>Thursday</th><td>12pm - 10pm</td></tr> 
-        <tr><th>Friday</th><td>9am - 12pm</td></tr> 
-        <tr><th>Saturday</th><td>9am - 12pm</td></tr> 
-        </table>
-    </div>
-   </section>
-
-   <footer>
-    <ul class="social-networks"> 
-        
-        <li> <a href="https://facebook.com" target="_blank" rel="noopener" 
-            aria-label="Visit our Facebook Page (opens in new tab)"><i class="fab fa-facebook-square"></i></a>
-        </li>
-        <li> <a href="https://twitter.com" target="_blank" rel="noopener" 
-            aria-label="Visit our Twitter Page (opens in new tab)"><i class="fab fa-twitter-square"></i></a>
-        </li>
-        <li> <a href="https://instagram.com" target="_blank" rel="noopener" 
-            aria-label="Visit our Instagram Page (opens in new tab)"><i class="fab fa-instagram-square"></i></a>
-        </li>
-        <li> <a href="https://linkedin.com" target="_blank" rel="noopener" 
-            aria-label="Visit our LinkedIn Page (opens in new tab)"><i class="fab fa-linkedin"></i></a>
-        </li>
-   </ul>
-   <div class="footer_address"> 
-      <h3> Find us at 33-35 Little Clarendon St, Oxford OX1 2HU </h3>
-      <h4> Call us on 01865 693067 </h4>
-  </div>
-   </footer>
-</body>
+   <head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Feed is a brand new restaurant opening in Oxford, UK">
+      <meta name="keywords" content="feed, restaurant, dinner, lunch, oxford">
+      <link rel="stylesheet" href="assets/css/style.css">
+      <title>Feed | Booking</title>
+      <script src="https://kit.fontawesome.com/b1dca606d6.js" crossorigin="anonymous"></script>
+   </head>
+   <body>
+      <header>
+         <nav id="nav">
+            <a href="index.html">
+               <h1 id="logo">Feed</h1>
+            </a>
+            <ul>
+               <li>
+                  <a href="book.html" class="active">Bookings</a>
+               </li>
+               <li>
+                  <a href="menu.html">Menu</a>
+               </li>
+               <li>
+                  <a href="index.html">Home</a>
+               </li>
+            </ul>
+         </nav>
+      </header>
+      <section class="booking-section">
+         <form method="GET" action="https://formdump.codeinstitute.net" class="booking-section">
+            <h2 id="booking_title"> Bookings </h2>
+            <label for="bname">Booking Name</label>
+            <input id="bname" name="booking_name" type="text" class="text-input" placeholder="John Smith" required>
+            <label for="pnumber">Phone Number</label>
+            <input id="pnumber" name="phone_number" type="number" class="text-input" placeholder="+44" required>
+            <label for="food_requirements">Requirements (Allergies, Special occasions etc)</label>
+            <input id="food_requirements" name="food_requirements" type="text" class="text-input" placeholder="N/A, Gluten-free, Birthday .. etc">
+            <label for="booking_size">Booking Size</label>
+            <input id="booking_size" name="booking_size" type="number" class="text-input" placeholder="Number of guests" required>
+            <label>Lunch Bookings</label>
+            <ul class="booking_list">
+               <li> 
+                  <label for="booking_12">12pm</label>
+                  <input type="radio" id="booking_12" name="booking_time" value="12pm" required>
+               </li>
+               <li> 
+                  <label for="booking_1230">12:30pm</label>
+                  <input type="radio" id="booking_1230" name="booking_time" value="1230pm" required>
+               </li>
+               <li> 
+                  <label for="booking_1">1pm</label>
+                  <input type="radio" id="booking_1" name="booking_time" value="1pm" required>
+               </li>
+               <li> 
+                  <label for="booking_130">1:30pm</label>
+                  <input type="radio" id="booking_130" name="booking_time" value="130pm" required>
+               </li>
+               <li> 
+                  <label for="booking_2">2pm</label>
+                  <input type="radio" id="booking_2" name="booking_time" value="2pm" required>
+            </ul>
+            <label>Evening Bookings</label>
+            <ul class="booking_list">
+               <li> 
+                  <label for="booking_6">6pm</label>
+                  <input type="radio" id="booking_6" name="booking_time" value="6pm" required>
+               </li>
+               <li> 
+                  <label for="booking_630">6:30pm</label>
+                  <input type="radio" id="booking_630" name="booking_time" value="630pm" required>
+               </li>
+               <li> 
+                  <label for="booking_7">7pm</label>
+                  <input type="radio" id="booking_7" name="booking_time" value="7pm" required>
+               </li>
+               <li> 
+                  <label for="booking_730">7:30pm</label>
+                  <input type="radio" id="booking_730" name="booking_time" value="730pm" required>
+               </li>
+               <li> 
+                  <label for="booking_8">8pm</label>
+                  <input type="radio" id="booking_8" name="booking_time" value="8pm" required>
+               </li>
+               <li> 
+                  <label for="booking_830">8:30pm</label>
+                  <input type="radio" id="booking_830" name="booking_time" value="8:30pm" required>
+               </li>
+            </ul>
+            <input class="book-button" type="submit" value="Book Table">
+         </form>
+      </section>
+      <section id="opening">
+         <h2 id="opening-header"> Opening Times </h2>
+         <div class="restaurant">
+            <h3> Restaurant </h3>
+            <table>
+               <tr>
+                  <th>Sunday</th>
+                  <td>9am - 5pm</td>
+               </tr>
+               <tr>
+                  <th>Monday</th>
+                  <td>Closed</td>
+               </tr>
+               <tr>
+                  <th>Tuesday</th>
+                  <td>Closed</td>
+               </tr>
+               <tr>
+                  <th>Wednesday</th>
+                  <td>12pm - 10pm</td>
+               </tr>
+               <tr>
+                  <th>Thursday</th>
+                  <td>12pm - 10pm</td>
+               </tr>
+               <tr>
+                  <th>Friday</th>
+                  <td>9am - 12pm</td>
+               </tr>
+               <tr>
+                  <th>Saturday</th>
+                  <td>9am - 12pm</td>
+               </tr>
+            </table>
+         </div>
+         <div class="terrace">
+            <h3> Terrace </h3>
+            <table>
+               <tr>
+                  <th>Sunday</th>
+                  <td>9am - 5pm</td>
+               </tr>
+               <tr>
+                  <th>Monday</th>
+                  <td>Closed</td>
+               </tr>
+               <tr>
+                  <th>Tuesday</th>
+                  <td>Closed</td>
+               </tr>
+               <tr>
+                  <th>Wednesday</th>
+                  <td>12pm - 10pm</td>
+               </tr>
+               <tr>
+                  <th>Thursday</th>
+                  <td>12pm - 10pm</td>
+               </tr>
+               <tr>
+                  <th>Friday</th>
+                  <td>9am - 12pm</td>
+               </tr>
+               <tr>
+                  <th>Saturday</th>
+                  <td>9am - 12pm</td>
+               </tr>
+            </table>
+         </div>
+         <div class="garden">
+            <h3> Garden </h3>
+            <table>
+               <tr>
+                  <th>Sunday</th>
+                  <td>9am - 5pm</td>
+               </tr>
+               <tr>
+                  <th>Monday</th>
+                  <td>Closed</td>
+               </tr>
+               <tr>
+                  <th>Tuesday</th>
+                  <td>Closed</td>
+               </tr>
+               <tr>
+                  <th>Wednesday</th>
+                  <td>12pm - 10pm</td>
+               </tr>
+               <tr>
+                  <th>Thursday</th>
+                  <td>12pm - 10pm</td>
+               </tr>
+               <tr>
+                  <th>Friday</th>
+                  <td>9am - 12pm</td>
+               </tr>
+               <tr>
+                  <th>Saturday</th>
+                  <td>9am - 12pm</td>
+               </tr>
+            </table>
+         </div>
+      </section>
+      <footer>
+         <ul class="social-networks">
+            <li> <a href="https://facebook.com" target="_blank" rel="noopener" 
+               aria-label="Visit our Facebook Page (opens in new tab)"><i class="fab fa-facebook-square"></i></a>
+            </li>
+            <li> <a href="https://twitter.com" target="_blank" rel="noopener" 
+               aria-label="Visit our Twitter Page (opens in new tab)"><i class="fab fa-twitter-square"></i></a>
+            </li>
+            <li> <a href="https://instagram.com" target="_blank" rel="noopener" 
+               aria-label="Visit our Instagram Page (opens in new tab)"><i class="fab fa-instagram-square"></i></a>
+            </li>
+            <li> <a href="https://linkedin.com" target="_blank" rel="noopener" 
+               aria-label="Visit our LinkedIn Page (opens in new tab)"><i class="fab fa-linkedin"></i></a>
+            </li>
+         </ul>
+         <div class="footer_address">
+            <h3> Find us at 33-35 Little Clarendon St, Oxford OX1 2HU </h3>
+            <h4> Call us on 01865 693067 </h4>
+         </div>
+      </footer>
+   </body>
 </html>
