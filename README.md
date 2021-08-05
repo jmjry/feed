@@ -109,8 +109,11 @@ Testing was undertaken at the start, during and after finishing my project. To c
   * No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html) 
 
 ![HTML VALIDATOR - HOME](https://user-images.githubusercontent.com/86608354/128360719-9c01455d-e1aa-4f32-8063-8e67a626a3e8.png)
+[Results](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fjmjry.github.io%2Ffeed%2F)
 ![HTML VALIDATOR - MENU](https://user-images.githubusercontent.com/86608354/128360744-411432b6-0fcd-431a-8ba7-f795e89d2bdd.png)
+[Results](https://validator.w3.org/nu/?showsource=yes&useragent=Validator.nu%2FLV+http%3A%2F%2Fvalidator.w3.org%2Fservices&acceptlanguage=&doc=https%3A%2F%2Fjmjry.github.io%2Ffeed%2Fmenu.html)
 ![HTML VALIDATOR - BOOKINGS](https://user-images.githubusercontent.com/86608354/128360753-ce07824a-31db-47f5-9d63-fb06692660be.png)
+[Results](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fjmjry.github.io%2Ffeed%2Fbook.html)
 
 
  * CSS
