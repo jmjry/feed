@@ -159,7 +159,7 @@ Testing was undertaken at the start, during and after finishing my project. To c
 * As a go to reasource hub I used [W3S Schools](https://www.w3schools.com/default.asp).
 * To create my responsive picture examples I used [ami.responsive](http://ami.responsivedesign.is).
 * When stuck on a development issue, I checked [Stackoverflow](https://stackoverflow.com) to see if other developers had the same problems.
-* Information, code and tutorials for building my menu came from [this YouTube video](https://www.youtube.com/watch?v=cJjej5udWVE), [W3Schools](https://www.w3schools.com/w3css/w3css_web_tmp_pizza.asp) and another developers [example structure](https://codepen.io/slstudios/pen/MbjRgg) Using techniques from all three of these and prior knowledge I created my menu page.
+* Information, some code and tutorials for building my menu came from [this YouTube video](https://www.youtube.com/watch?v=cJjej5udWVE), [W3Schools](https://www.w3schools.com/w3css/w3css_web_tmp_pizza.asp) and another developers [example structure](https://codepen.io/slstudios/pen/MbjRgg) Using techniques from all three of these and prior knowledge I created my menu page.
 
 
 ### Media 
