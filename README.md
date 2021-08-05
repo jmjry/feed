@@ -144,6 +144,7 @@ Testing was undertaken at the start, during and after finishing my project. To c
  ## Credits:
  
  * To ensure my CSS code was formatted correctly, I ran it through a formatter which can be found here: [CSS Code Formatter](https://www.freeformatter.com/css-beautifier.html#ad-output)
+ * To ensure my HTML code was formatted correctly, I ran it through a formatter which can be found here: [HTML Code Formatter](https://www.freeformatter.com/html-formatter.html)
 
 ### Content 
 
@@ -155,7 +156,7 @@ Testing was undertaken at the start, during and after finishing my project. To c
 * As a go to reasource hub I used [W3S Schools](https://www.w3schools.com/default.asp).
 * To create my responsive picture examples I used [ami.responsive](http://ami.responsivedesign.is).
 * When stuck on a development issue, I checked [Stackoverflow](https://stackoverflow.com) to see if other developers had the same problems.
-* Information, code and tutorials for building my menu came from [this YouTube video](https://www.youtube.com/watch?v=cJjej5udWVE) [another developer](https://codepen.io/slstudios/pen/MbjRgg) and [W3Schools](https://www.w3schools.com/w3css/w3css_web_tmp_pizza.asp). Using techniques from all three of these I created my menu page.
+* Information, code and tutorials for building my menu came from [this YouTube video](https://www.youtube.com/watch?v=cJjej5udWVE), [W3Schools](https://www.w3schools.com/w3css/w3css_web_tmp_pizza.asp) and another developers [example structure](https://codepen.io/slstudios/pen/MbjRgg) Using techniques from all three of these and prior knowledge I created my menu page.
 
 
 ### Media 
