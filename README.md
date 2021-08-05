@@ -90,7 +90,7 @@ For this project I will be using HTML5 & CSS. Eventually we will be looking to i
 
 ## Testing 
 
-Content regarding testing processes undertaken eg: How each feature works as planned, how the site looks on different devices, bugs found & how they were overcome. If section is too long create seperate document with link provided.
+Testing was undertaken at the start, during and after finishing my project. To complete my testing I used the [Google Chrome DevTool](https://developer.chrome.com/docs/devtools/), a spreadsheet to track tests, validators (as soon below) and reviews by peers (as seen in the credits).
 
 ### Feature testing 
 * Each feature was tested for responsiveness on desktop, tablet and mobile. If the feature responded correctly then it was marked green on my spreadsheet.
@@ -120,7 +120,8 @@ Content regarding testing processes undertaken eg: How each feature works as pla
  
  ### Known Bugs 
  
- * There are currently no known bugs on the website.
+ * During the validator testing I discovered that a <p> element can not be a child of a <span> element. After discovering this, I made the correct changes to my code and retested to ensure it was correct.
+ * Another bug found during testing was that my example dishes were not responsive at a lower width. This was found when testing in the browser devtools and I continued to test until a solution was found then deployed.
  
  ## Deployment 
 
