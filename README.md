@@ -92,7 +92,13 @@ For this project I will be using HTML5 & CSS. Eventually we will be looking to i
 
 Content regarding testing processes undertaken eg: How each feature works as planned, how the site looks on different devices, bugs found & how they were overcome. If section is too long create seperate document with link provided.
 
-### Responsiveness Testing 
+### Feature testing 
+* Each feature was tested for responsiveness on desktop, tablet and mobile. If the feature responded correctly then it was marked green on my spreadsheet.
+* All features that had links were tested to ensure the link would work when a user click on it. All of the links passed the test and was marked green.
+* All form fields were tested to ensure the correct information was submitted. The form fields passed the test and was marked green. 
+![Screenshot 2021-08-05 at 15 12 16](https://user-images.githubusercontent.com/86608354/128364857-dbe5217f-7c83-4882-ac54-103dc7f30922.png)
+
+### Responsiveness testing 
 
 * All responsiveness testing was done in the Google Chrome devtool. As I designed my website for desktop, I used media queries across the site to ensure that the website remained responsive at widths all the way down to 320px. 
 * After my testing I decided that in the future I will initially design for mobile and then work the responsiveness up.
