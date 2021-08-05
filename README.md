@@ -120,7 +120,7 @@ Testing was undertaken at the start, during and after finishing my project. To c
  
  ### Known Bugs 
  
- * During the validator testing I discovered that a <p> element can not be a child of a <span> element. After discovering this, I made the correct changes to my code and retested to ensure it was correct.
+ * During the validator testing I discovered that a paragraph element can not be a child of a span element. After discovering this, I made the correct changes to my code and retested to ensure it was correct.
  * Another bug found during testing was that my example dishes were not responsive at a lower width. This was found when testing in the browser devtools and I continued to test until a solution was found then deployed.
  
  ## Deployment 
