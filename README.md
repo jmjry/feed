@@ -53,7 +53,7 @@ For this project I will be using HTML5 & CSS. Eventually we will be looking to i
 * F4 Opening Times 
   * On all pages the Opening Times are displayed so that users may see when the restaurant is open. The design of this changes if the screen size is made smaller, it will reposition the text and headers to fit the page.
 
-![Opening Times](https://user-images.githubusercontent.com/86608354/128213652-5c941286-60a0-45d7-bca5-d50fa1190313.png)
+![Opening Times](https://user-images.githubusercontent.com/86608354/128355525-371b06ec-751a-4d8f-bbc0-e5c6349abc5d.png)
 
 * F5 Social Media 
   * Each of the social media buttons will open a new tab and take the user to our associated social media page.
@@ -87,6 +87,11 @@ For this project I will be using HTML5 & CSS. Eventually we will be looking to i
 ## Testing 
 
 Content regarding testing processes undertaken eg: How each feature works as planned, how the site looks on different devices, bugs found & how they were overcome. If section is too long create seperate document with link provided.
+
+### Responsiveness Testing 
+
+* All responsiveness testing was done in the Google Chrome devtool. As I designed my website for desktop, I used media queries across the site to ensure that the website remained responsive at widths all the way down to 320px. 
+* After my testing I decided that in the future I will initially design for mobile and then work the responsiveness up.
 
 ### Validator testing 
 
